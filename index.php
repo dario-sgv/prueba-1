@@ -1,2 +1,2 @@
-buenas noches
-chau
+todo bindec
+claramente
